@@ -9,3 +9,6 @@ I am Science Computer student at [UFES](https://www.ufes.br/) and I love to prog
 - NodeJS ✨
 - ReactJS ⚛️
 - MySQL ❤️
+- C (programming language) ⚙️
+
+My [Resume](https://drive.google.com/file/d/10xeJ6N_n6ZlL0g5QBqzzmq6AWhxoWPwF/view?usp=sharing) 📄
