@@ -1,6 +1,6 @@
 ### Hi there 👋😃
 
-I am Science Computer student at [UFES](https://www.ufes.br/) and I love to program.
+I am Science Computer student at [UFES](https://www.ufes.br/) and Full Stack React|Node at iMDT.
 
 ### My LinkedIn
 [![LinkedIn](./linkedin.png)](https://www.linkedin.com/in/jovictornunes/)
